@@ -4,6 +4,22 @@
     "semesters": [
         {
             "course_id": "CS172.01",
+            "season": "Fall",
+            "year": "2023",
+            "teacher": [
+                "gaoshh"
+            ],
+            "ta": [
+                "wangry3", "wangchy8", "zhaoyq12022", "wangshuo2022", "liushy2023", "xujw2023"
+            ],
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Linear algebra, Calculus, Programing",
+            "evaluation": "Homework 10%, Quiz 10%, Final exam 60%, Project 20%"
+        },
+        {
+            "course_id": "CS172.01",
             "season": "Spring",
             "year": "2023",
             "teacher": [
