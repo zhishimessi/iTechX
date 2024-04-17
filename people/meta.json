@@ -998,6 +998,12 @@
         "teach-courses": [
             [
                 "Spring",
+                "2023",
+                "CS182",
+                "Introduction to Machine Learning"
+            ],
+            [
+                "Spring",
                 "2024",
                 "CS150A",
                 "Database"
@@ -8688,6 +8694,12 @@
         "ta-courses": [
             [
                 "Spring",
+                "2023",
+                "CS182",
+                "Introduction to Machine Learning"
+            ],
+            [
+                "Spring",
                 "2022",
                 "EE150",
                 "Signals and Systems"
@@ -9460,6 +9472,12 @@
             ]
         ],
         "ta-courses": [
+            [
+                "Spring",
+                "2023",
+                "CS182",
+                "Introduction to Machine Learning"
+            ],
             [
                 "Fall",
                 "2022",
@@ -12466,6 +12484,12 @@
             ]
         ],
         "ta-courses": [
+            [
+                "Spring",
+                "2023",
+                "CS182",
+                "Introduction to Machine Learning"
+            ],
             [
                 "Fall",
                 "2022",
