@@ -4,6 +4,38 @@
     "semesters": [
         {
             "course_id": "CS132.01",
+            "season": "Spring",
+            "year": "2023",
+            "teacher": [
+                "jiangzhh"
+            ],
+            "ta": [
+                "yanglsh", "chenyl5", "diyy"
+            ],
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Algorithms and Data Structures",
+            "evaluation": "Homework: 4*5%, Midterm: 20%, Final Project: 60%"
+        },
+        {
+            "course_id": "CS132.01",
+            "season": "Spring",
+            "year": "2022",
+            "teacher": [
+                "jiangzhh"
+            ],
+            "ta": [
+                "unknown"
+            ],
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Algorithms and Data Structures",
+            "evaluation": "Homework: 4*5%, Midterm: 20%, Final Project: 60%"
+        },
+        {
+            "course_id": "CS132.01",
             "season": "Fall",
             "year": "2021",
             "teacher": [
