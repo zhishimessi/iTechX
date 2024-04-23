@@ -5,6 +5,22 @@
         {
             "course_id": "CS243.01",
             "season": "Spring",
+            "year": "2023",
+            "teacher": [
+                "zhaodj"
+            ],
+            "ta": [
+                "unknown"
+            ],
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "无",
+            "evaluation": "未知"
+        },
+        {
+            "course_id": "CS243.01",
+            "season": "Spring",
             "year": "2021",
             "mainpage": "http://dengji-zhao.net/AGTCourse/index.html",
             "teacher": [
