@@ -5,6 +5,22 @@
         {
             "course_id": "CS274A.01",
             "season": "Spring",
+            "year": "2024",
+            "teacher": [
+                "tukw"
+            ],
+            "ta": [
+                "wuhy1", "jipy", "huiwy"
+            ],
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "48",
+            "prerequisite": "CS: Programming, Data Structures and Algorithms; Math: Calculus, Probability and Statistics, Linear Algebra; Artificial Intelligence I (recommended)",
+            "evaluation": "5 Homework (20%), Final (60%), Project (20%)"
+        },
+        {
+            "course_id": "CS274A.01",
+            "season": "Spring",
             "year": "2023",
             "teacher": [
                 "tukw"
