@@ -9221,6 +9221,12 @@
         "image": true,
         "teach-courses": [
             [
+                "Fall",
+                "2023",
+                "CS272",
+                "Computer Vision II"
+            ],
+            [
                 "Spring",
                 "2023",
                 "CS172",
@@ -12808,6 +12814,12 @@
             [
                 "Fall",
                 "2023",
+                "CS272",
+                "Computer Vision II"
+            ],
+            [
+                "Fall",
+                "2023",
                 "CS100",
                 "Introduction to Programming"
             ]
@@ -13131,6 +13143,12 @@
             ]
         ],
         "ta-courses": [
+            [
+                "Fall",
+                "2023",
+                "CS272",
+                "Computer Vision II"
+            ],
             [
                 "Spring",
                 "2023",
