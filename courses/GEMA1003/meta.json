@@ -1,0 +1,38 @@
+{
+    "code": "GEMA1003",
+    "name": "Calculus II",
+    "semesters": [
+        {
+            "season": "Spring",
+            "year": "2024",
+            "course_id": "GEMA1003.01",
+            "department": "数学科学研究所",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "高等数学I",
+            "evaluation": "平时作业和上课参与程度20%；期中考试30%；期末考试50%",
+            "teacher": [
+                "chenhao"
+            ],
+            "ta": [
+                "unknown"
+            ]
+        },
+        {
+            "season": "Spring",
+            "year": "2023",
+            "course_id": "GEMA1003.01",
+            "department": "数学科学研究所",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "高等数学I",
+            "evaluation": "平时成绩：20%；期中考试：30%；期末考试：50%.",
+            "teacher": [
+                "chenhao"
+            ],
+            "ta": [
+                "unknown"
+            ]
+        }
+    ]
+}
