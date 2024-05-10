@@ -4,6 +4,22 @@
     "semesters": [
         {
             "course_id": "CS276.01",
+            "season": "Fall",
+            "year": "2021",
+            "teacher": [
+                "yujingyi"
+            ],
+            "ta": [
+                "shensy", "zhaofq", "wangyj2"
+            ],
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "未知",
+            "evaluation": "未知"
+        },
+        {
+            "course_id": "CS276.01",
             "season": "Spring",
             "year": "2020",
             "teacher": [
