@@ -1305,6 +1305,12 @@
         "teach-courses": [
             [
                 "Fall",
+                "2022",
+                "CS276",
+                "Computational Photography"
+            ],
+            [
+                "Fall",
                 "2021",
                 "CS276",
                 "Computational Photography"
@@ -13615,6 +13621,12 @@
         "ta-courses": [
             [
                 "Fall",
+                "2022",
+                "CS276",
+                "Computational Photography"
+            ],
+            [
+                "Fall",
                 "2021",
                 "CS276",
                 "Computational Photography"
@@ -13634,6 +13646,24 @@
             [
                 "Fall",
                 "2021",
+                "CS276",
+                "Computational Photography"
+            ]
+        ]
+    },
+    "wangzy6": {
+        "name": "王子瑜",
+        "info": [
+            [
+                "envelope",
+                "&#119;&#97;&#x6e;&#103;&#x7a;&#x79;&#x36;&#x40;&#x73;&#x68;&#97;&#110;&#103;&#104;&#x61;&#105;&#116;&#101;&#x63;&#x68;&#46;&#101;&#100;&#117;&#46;&#x63;&#x6e;",
+                "mailto:&#119;&#97;&#x6e;&#103;&#x7a;&#x79;&#x36;&#x40;&#x73;&#x68;&#97;&#110;&#103;&#104;&#x61;&#105;&#116;&#101;&#x63;&#x68;&#46;&#101;&#100;&#117;&#46;&#x63;&#x6e;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Fall",
+                "2022",
                 "CS276",
                 "Computational Photography"
             ]
