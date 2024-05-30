@@ -13570,6 +13570,14 @@
     },
     "chengy": {
         "name": "程颖",
-        "info": []
+        "info": [],
+        "ta-courses": [
+            [
+                "Spring",
+                "2024",
+                "BME2104",
+                "Biomedical Imaging Technology"
+            ]
+        ]
     }
 }
