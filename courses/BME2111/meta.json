@@ -1,4 +1,23 @@
 {
     "code": "BME2111",
-    "name": "Neural Signal Processing and Data Analysis"
+    "name": "Neural Signal Processing and Data Analysis",
+    "semesters": [
+        {
+            "season": "Fall",
+            "year": "2023",
+            "course_id": "BME2111.01",
+            "department": "生物医学工程学院",
+            "credit": "3",
+            "hours": "48",
+            "prerequisite": "Multivariable Calculus; Linear Algebra:  basic matrix operations (sums and products), matrix inversion, eigenvectors and eigenvalues, singular value decomposition; Probability Theory and Mathematical Statistics: independence, conditional probability, Bayes rule, multivariate Gaussian distribution, Poisson distribution, Poisson process",
+            "evaluation": "Attendance/In class quiz (5%), Midterm exam (30%), Final exam (30%), Projects (35%): Proposal (5%, due Week 4), Progress report & presentation (10%, due Week 8), Final report & presentation (20%, due Week 14)",
+            "teacher": [
+                "liyn2"
+            ],
+            "ta": [
+                "wangzhj12022",
+                "lishr2022"
+            ]
+        }
+    ]
 }
