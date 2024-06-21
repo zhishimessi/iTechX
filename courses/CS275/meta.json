@@ -1,0 +1,39 @@
+{
+    "code": "CS275",
+    "name": "Computer Animation and Physical Simulation",
+    "semesters": [
+        {
+            "course_id": "CS275.01",
+            "season": "Spring",
+            "year": "2024",
+            "mainpage": "https://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/course/cs275/",
+            "teacher": [
+                "liuxp"
+            ],
+            "ta": [
+                "xiaoxy1", "fuxy"
+            ],
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "未知",
+            "evaluation": "Assignments (x3, 45%), Presentation and discussion (6% x 4), Final project (31%)"
+        },
+        {
+            "course_id": "CS275.01",
+            "season": "Spring",
+            "year": "2023",
+            "teacher": [
+                "liuxp"
+            ],
+            "ta": [
+                "xiaoxy1", "zhouxch"
+            ],
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "未知",
+            "evaluation": "未知"
+        }
+    ]
+}

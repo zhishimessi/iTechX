@@ -1305,6 +1305,24 @@
         "teach-courses": [
             [
                 "Fall",
+                "2022",
+                "CS276",
+                "Computational Photography"
+            ],
+            [
+                "Fall",
+                "2021",
+                "CS276",
+                "Computational Photography"
+            ],
+            [
+                "Spring",
+                "2020",
+                "CS276",
+                "Computational Photography"
+            ],
+            [
+                "Fall",
                 "2018",
                 "CS101",
                 "Algorithms and Data Structures"
@@ -1809,10 +1827,22 @@
         ],
         "teach-courses": [
             [
+                "Spring",
+                "2024",
+                "CS275",
+                "Computer Animation and Physical Simulation"
+            ],
+            [
                 "Fall",
                 "2023",
                 "CS171",
                 "Computer Graphics I"
+            ],
+            [
+                "Spring",
+                "2023",
+                "CS275",
+                "Computer Animation and Physical Simulation"
             ],
             [
                 "Fall",
@@ -5172,6 +5202,12 @@
                 "2022",
                 "CS270B",
                 "Advanced Digital Image Processing"
+            ],
+            [
+                "Fall",
+                "2021",
+                "CS276",
+                "Computational Photography"
             ],
             [
                 "Fall",
@@ -13632,6 +13668,126 @@
                 "2023",
                 "BME2111",
                 "Neural Signal Processing and Data Analysis"
+            ]
+        ]
+    },
+    "xiaoxy1": {
+        "name": "肖晓宇",
+        "info": [
+            [
+                "envelope",
+                "&#x78;&#105;&#x61;&#111;&#120;&#x79;&#x31;&#x40;&#115;&#104;&#97;&#110;&#x67;&#104;&#97;&#x69;&#116;&#101;&#99;&#104;&#x2e;&#x65;&#x64;&#x75;&#46;&#99;&#x6e;",
+                "mailto:&#x78;&#105;&#x61;&#111;&#120;&#x79;&#x31;&#x40;&#115;&#104;&#97;&#110;&#x67;&#104;&#97;&#x69;&#116;&#101;&#99;&#104;&#x2e;&#x65;&#x64;&#x75;&#46;&#99;&#x6e;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Spring",
+                "2024",
+                "CS275",
+                "Computer Animation and Physical Simulation"
+            ],
+            [
+                "Spring",
+                "2023",
+                "CS275",
+                "Computer Animation and Physical Simulation"
+            ]
+        ]
+    },
+    "fuxy": {
+        "name": "傅欣毅",
+        "info": [
+            [
+                "envelope",
+                "&#102;&#117;&#120;&#x79;&#x40;&#x73;&#x68;&#x61;&#x6e;&#103;&#x68;&#x61;&#105;&#116;&#101;&#x63;&#104;&#x2e;&#101;&#x64;&#x75;&#46;&#x63;&#x6e;",
+                "mailto:&#102;&#117;&#120;&#x79;&#x40;&#x73;&#x68;&#x61;&#x6e;&#103;&#x68;&#x61;&#105;&#116;&#101;&#x63;&#104;&#x2e;&#101;&#x64;&#x75;&#46;&#x63;&#x6e;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Spring",
+                "2024",
+                "CS275",
+                "Computer Animation and Physical Simulation"
+            ]
+        ]
+    },
+    "zhouxch": {
+        "name": "周宣辰",
+        "info": [
+            [
+                "envelope",
+                "&#x7a;&#x68;&#111;&#x75;&#120;&#x63;&#104;&#64;&#115;&#x68;&#x61;&#x6e;&#x67;&#x68;&#x61;&#105;&#x74;&#101;&#99;&#104;&#x2e;&#x65;&#x64;&#x75;&#46;&#x63;&#110;",
+                "mailto:&#x7a;&#x68;&#111;&#x75;&#120;&#x63;&#104;&#64;&#115;&#x68;&#x61;&#x6e;&#x67;&#x68;&#x61;&#105;&#x74;&#101;&#99;&#104;&#x2e;&#x65;&#x64;&#x75;&#46;&#x63;&#110;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Spring",
+                "2023",
+                "CS275",
+                "Computer Animation and Physical Simulation"
+            ]
+        ]
+    },
+    "shensy": {
+        "name": "沈思远",
+        "info": [
+            [
+                "envelope",
+                "&#x73;&#x68;&#x65;&#110;&#115;&#x79;&#x40;&#x73;&#x68;&#x61;&#x6e;&#103;&#104;&#x61;&#x69;&#x74;&#101;&#99;&#x68;&#x2e;&#x65;&#x64;&#x75;&#46;&#x63;&#110;",
+                "mailto:&#x73;&#x68;&#x65;&#110;&#115;&#x79;&#x40;&#x73;&#x68;&#x61;&#x6e;&#103;&#104;&#x61;&#x69;&#x74;&#101;&#99;&#x68;&#x2e;&#x65;&#x64;&#x75;&#46;&#x63;&#110;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Fall",
+                "2022",
+                "CS276",
+                "Computational Photography"
+            ],
+            [
+                "Fall",
+                "2021",
+                "CS276",
+                "Computational Photography"
+            ]
+        ]
+    },
+    "zhaofq": {
+        "name": "赵富强",
+        "info": [
+            [
+                "envelope",
+                "&#x7a;&#104;&#x61;&#x6f;&#x66;&#113;&#64;&#115;&#x68;&#x61;&#110;&#x67;&#104;&#97;&#x69;&#x74;&#x65;&#x63;&#x68;&#46;&#101;&#x64;&#x75;&#46;&#99;&#x6e;",
+                "mailto:&#x7a;&#104;&#x61;&#x6f;&#x66;&#113;&#64;&#115;&#x68;&#x61;&#110;&#x67;&#104;&#97;&#x69;&#x74;&#x65;&#x63;&#x68;&#46;&#101;&#x64;&#x75;&#46;&#99;&#x6e;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Fall",
+                "2021",
+                "CS276",
+                "Computational Photography"
+            ]
+        ]
+    },
+    "wangzy6": {
+        "name": "王子瑜",
+        "info": [
+            [
+                "envelope",
+                "&#119;&#97;&#x6e;&#103;&#x7a;&#x79;&#x36;&#x40;&#x73;&#x68;&#97;&#110;&#103;&#104;&#x61;&#105;&#116;&#101;&#x63;&#x68;&#46;&#101;&#100;&#117;&#46;&#x63;&#x6e;",
+                "mailto:&#119;&#97;&#x6e;&#103;&#x7a;&#x79;&#x36;&#x40;&#x73;&#x68;&#97;&#110;&#103;&#104;&#x61;&#105;&#116;&#101;&#x63;&#x68;&#46;&#101;&#100;&#117;&#46;&#x63;&#x6e;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Fall",
+                "2022",
+                "CS276",
+                "Computational Photography"
             ]
         ]
     }
