@@ -12575,6 +12575,12 @@
         "ta-courses": [
             [
                 "Spring",
+                "2024",
+                "CS100",
+                "Introduction to Programming"
+            ],
+            [
+                "Spring",
                 "2023",
                 "CS131",
                 "Programming Languages and Compilers"
