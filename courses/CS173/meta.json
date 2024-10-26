@@ -1,5 +1,4 @@
 {
-    "status": "activate",
     "code": "CS173",
     "name": "Data Mining",
     "semesters": [
@@ -16,7 +15,7 @@
                 "zhanghp"
             ],
             "ta": [
-                "unknown"
+                "duxc2023"
             ]
         }
     ]
