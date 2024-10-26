@@ -1,0 +1,23 @@
+{
+    "status": "activate",
+    "code": "CS173",
+    "name": "Data Mining",
+    "semesters": [
+        {
+            "season": "Spring",
+            "year": "2024",
+            "course_id": "CS173.01",
+            "department": "信息科学与技术学院",
+            "credit": "3",
+            "hours": "48",
+            "prerequisite": "未知",
+            "evaluation": "作业：15% • 涉及知识以及工具的应用以及文献的阅读。 • 随堂：12%测验，3% attendance • 考试：25% • 课程项目：45% • 项目于学期初宣布，以小组为单位完成课题。项目贯穿整个课程期间， 将撰写报告并汇报项目，分为开题、中期以及结题。 • 课程总分5%以内的bonus • 部分（~4%）来自课程项目 • 部分（~1%）来自课堂回答",
+            "teacher": [
+                "zhanghp"
+            ],
+            "ta": [
+                "unknown"
+            ]
+        }
+    ]
+}
