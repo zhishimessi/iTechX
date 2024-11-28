@@ -57,6 +57,22 @@
             ]
         },
         {
+            "season": "Spring",
+            "year": "2022",
+            "course_id": "SI140A.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Mathematical Analysis and Linear Algebra",
+            "evaluation": "未知",
+            "teacher": [
+                "shaozy"
+            ],
+            "ta": [
+                "unknown"
+            ]
+        },
+        {
             "season": "Fall",
             "year": "2021",
             "course_id": "MATH1212.01",
