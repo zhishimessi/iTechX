@@ -4,6 +4,39 @@
     "semesters": [
         {
             "season": "Fall",
+            "year": "2023",
+            "course_id": "CS240.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Algorithm and Data Structure (Undergraduate course), Basic discrete mathematic, Basic probability theory, Computer programming",
+            "evaluation": "Problem sets 35%, Project 15%, Midterm 20%, Final exam 30%",
+            "teacher": [
+                "liquan"
+            ],
+            "ta": [
+                "huht2022",
+                "liushy"
+            ]
+        },
+        {
+            "season": "Spring",
+            "year": "2023",
+            "course_id": "CS240.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "未知",
+            "evaluation": "Problem sets 35%, Project 15%, Midterm 20%, Final exam 30%",
+            "teacher": [
+                "fanrui"
+            ],
+            "ta": [
+                "unknown"
+            ]
+        },
+        {
+            "season": "Fall",
             "year": "2022",
             "course_id": "CS240.01",
             "department": "信息科学与技术学院",

@@ -4,6 +4,43 @@
     "semesters": [
         {
             "season": "Fall",
+            "year": "2023",
+            "course_id": "CS182.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Mathematical Analysis II, Linear Algebra, Probability and Statistics",
+            "evaluation": "Homework(30%), Course Project(30%), Fianl Exam(40%)",
+            "teacher": [
+                "sunlu1"
+            ],
+            "ta": [
+                "caotx",
+                "jianghr1",
+                "maozhw",
+                "shaoym1"
+            ]
+        },
+        {
+            "season": "Spring",
+            "year": "2023",
+            "course_id": "CS182.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Mathematical Analysis II, Linear Algebra, Probability and Statistics",
+            "evaluation": "Homework(30%), Course Project(30%), Fianl Exam(40%)",
+            "teacher": [
+                "sunlu1"
+            ],
+            "ta": [
+                "chenbb",
+                "huangjg",
+                "zengzy1"
+            ]
+        },
+        {
+            "season": "Fall",
             "year": "2022",
             "mainpage": "https://cs182.sist.shanghaitech.edu.cn/",
             "course_id": "CS182.01",

@@ -3,6 +3,22 @@
     "name": "Data Visualization",
     "semesters": [
         {
+            "season": "Spring",
+            "year": "2024",
+            "course_id": "ARTS1422.01",
+            "department": "信息科学与技术学院",
+            "credit": "3",
+            "hours": "48",
+            "prerequisite": "未知",
+            "evaluation": "Assignments: Coding and  Paper Presentation (20%)  • Quiz (10%)  • The quiz will be only with  a two-sided A4 cheat  sheet  • Top VIS Competition (10%)  • Course Project (60%)",
+            "teacher": [
+                "liquan"
+            ],
+            "ta": [
+                "xuys2023"
+            ]
+        },
+        {
             "season": "Fall",
             "year": "2022",
             "course_id": "ARTS1422.01",
