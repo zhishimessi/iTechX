@@ -1,0 +1,22 @@
+{
+    "code": "ECON1001",
+    "name": "Introduction to Economics",
+    "semesters": [
+        {
+            "season": "Spring",
+            "year": "2023",
+            "course_id": "ECON1101.01",
+            "department": "创业与管理学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "无",
+            "evaluation": "Four Take-Home Assignments, 20%; Three In-Class Quiz, 15%; Midterm Exam, 15%; Final Exam, 50%",
+            "teacher": [
+                "hechen"
+            ],
+            "ta": [
+                "unknown"
+            ]
+        }
+    ]
+}
