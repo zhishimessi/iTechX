@@ -10,7 +10,7 @@
             "credit": "4",
             "hours": "64",
             "prerequisite": "Introduction to Programming",
-            "evaluation": "Exams (50%, mid-term 25%, final 25%), Weekly Homework (20%), 3 Programming Tasks (20%), In-class Quizzes (10%)",
+            "evaluation": "Exams (45%, mid-term 20%, final 25%), Weekly Homework (20%), 4 Programming Tasks (20%), In-class Quizzes (15%)",
             "teacher": [
                 "zhaodj",
                 "genghao",
@@ -18,9 +18,17 @@
                 "liuxin7"
             ],
             "ta": [
+                "hujt",
                 "zhouyx2",
+                "linhy",
                 "zhoushch",
-                "hujt"
+                "baiyn2022",
+                "zulk2024",
+                "wuhy3",
+                "huangchn",
+                "zhuangsh2",
+                "luao",
+                "zhangrm2022"
             ]
         },
         {
@@ -234,5 +242,6 @@
             "prerequisite": "Introduction to Programming",
             "evaluation": "Exams (45%, mid-term 25%, final 20%), Weekly Homework (20%), 4 Programming Tasks (20%), In-class Quizzes (15%)"
         }
-    ]
+    ],
+    "status": "activate"
 }
