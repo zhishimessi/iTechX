@@ -4,6 +4,27 @@
     "semesters": [
         {
             "season": "Fall",
+            "year": "2024",
+            "course_id": "CS101.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Introduction to Programming",
+            "evaluation": "Exams (50%, mid-term 25%, final 25%), Weekly Homework (20%), 3 Programming Tasks (20%), In-class Quizzes (10%)",
+            "teacher": [
+                "zhaodj",
+                "genghao",
+                "zhangyy8",
+                "liuxin7"
+            ],
+            "ta": [
+                "zhouyx2",
+                "zhoushch",
+                "hujt"
+            ]
+        },
+        {
+            "season": "Fall",
             "year": "2023",
             "course_id": "CS101.01",
             "department": "信息科学与技术学院",
