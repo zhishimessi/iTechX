@@ -3,6 +3,23 @@
     "name": "Computer Graphics II",
     "semesters": [
         {
+            "season": "Fall",
+            "year": "2024",
+            "course_id": "CS271.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "未知",
+            "evaluation": "Homework 3 * 15%, Paper sharing 1 * 10%, Course project 45%",
+            "teacher": [
+                "mayuexin"
+            ],
+            "ta": [
+                "renym2022",
+                "tujd2023"
+            ]
+        },
+        {
             "season": "Spring",
             "year": "2022",
             "course_id": "CS271.01",
