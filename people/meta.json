@@ -716,6 +716,12 @@
         "teach-courses": [
             [
                 "Fall",
+                "2024",
+                "CS121",
+                "Parallel Computing"
+            ],
+            [
+                "Fall",
                 "2023",
                 "CS121",
                 "Parallel Computing"
@@ -12723,6 +12729,12 @@
         ],
         "image": true,
         "ta-courses": [
+            [
+                "Fall",
+                "2024",
+                "CS121",
+                "Parallel Computing"
+            ],
             [
                 "Spring",
                 "2024",
