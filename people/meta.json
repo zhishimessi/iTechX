@@ -1201,6 +1201,12 @@
         ],
         "teach-courses": [
             [
+                "Fall",
+                "2024",
+                "SI151A",
+                "Convex Optimization and Its Applications in Information Science"
+            ],
+            [
                 "Spring",
                 "2022",
                 "SI251",
@@ -15670,6 +15676,24 @@
                 "2024",
                 "SI140A",
                 "Probability and Statistics for Information Science"
+            ]
+        ]
+    },
+    "yanghzh2022": {
+        "name": "杨瀚哲",
+        "info": [
+            [
+                "envelope",
+                "&#x79;&#x61;&#110;&#103;&#104;&#x7a;&#104;&#x32;&#48;&#x32;&#x32;&#64;&#115;&#104;&#97;&#x6e;&#103;&#x68;&#x61;&#x69;&#x74;&#x65;&#99;&#x68;&#x2e;&#x65;&#x64;&#x75;&#46;&#x63;&#110;",
+                "mailto:&#x79;&#97;&#x6e;&#x67;&#104;&#x7a;&#x68;&#50;&#x30;&#x32;&#x32;&#x40;&#x73;&#104;&#x61;&#x6e;&#103;&#x68;&#x61;&#x69;&#x74;&#101;&#x63;&#x68;&#x2e;&#101;&#x64;&#x75;&#x2e;&#x63;&#x6e;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Fall",
+                "2024",
+                "SI151A",
+                "Convex Optimization and Its Applications in Information Science"
             ]
         ]
     }
