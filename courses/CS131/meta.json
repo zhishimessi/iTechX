@@ -3,6 +3,24 @@
     "name": "Programming Languages and Compilers",
     "semesters": [
         {
+            "season": "Fall",
+            "year": "2024",
+            "course_id": "CS131.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Significant programming experience, familiarity with trees, graphs, low-level coding; Some familiarity with computation models (automata, stack machines, etc.)",
+            "evaluation": "Projects 60% (group of 2), Midterm 20%, Final 20%",
+            "teacher": [
+                "chenhx1"
+            ],
+            "ta": [
+                "youch",
+                "zhengjy2022"
+            ],
+            "mainpage": "https://faculty.sist.shanghaitech.edu.cn/cs131/index.html"
+        },
+        {
             "season": "Spring",
             "year": "2023",
             "course_id": "CS131.01",
