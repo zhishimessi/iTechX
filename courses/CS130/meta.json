@@ -4,6 +4,27 @@
     "semesters": [
         {
             "season": "Fall",
+            "year": "2024",
+            "course_id": "CS130.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "C/C++, Computer Architecture I or II",
+            "evaluation": "考试：期中（10%）、期末（15%）；作业：10%；编程项目：项目1（10%），项目2（10%），项目3（20%），项目4（20%）；考勤：5%",
+            "teacher": [
+                "yinshu"
+            ],
+            "ta": [
+                "zhanghr2022",
+                "guoxl2024",
+                "lixiang2022",
+                "aihy2023",
+                "zhangbm"
+            ],
+            "mainpage": "https://lion.sist.shanghaitech.edu.cn/Course/CS130/24f/"
+        },
+        {
+            "season": "Fall",
             "year": "2023",
             "course_id": "CS130.01",
             "department": "信息科学与技术学院",
