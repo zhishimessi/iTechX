@@ -1,0 +1,61 @@
+\documentclass{article}
+
+% Language setting
+% Replace `english' with e.g. `spanish' to change the document language
+\usepackage[english]{babel}
+
+% Set page size and margins
+% Replace `letterpaper' with `a4paper' for UK/EU standard size
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+% Useful packages
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+
+\title{CS172 Assignment 2}
+\author{Your Name\\
+Your Student ID\\
+Your ShanghaiTech Email Address}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section{Image Stitching}
+
+\subsection{Raw Image}
+Please display the campus photos you have taken here. There should be two sets of images, with each set containing three photos, for a total of six photos.
+
+\subsection{Correspondence Visualization}
+Please display the visualization of correspondences predicted by LightGlue here. There should be 4 pairs of images.
+
+\subsection{Warped Image}
+Please display the warped images here. There should be 4 images.
+
+\subsection{Final Result}
+Please display the final stitched panoramic image here. There should be 2 images.
+
+\newpage
+
+\section{Deformable Image Registration}
+
+\subsection{Dataset}
+The original MNIST dataset was used for handwritten digit recognition, and some adjustments to the dataset structure may be needed to accomplish this task. Please describe how you used the MNIST dataset, e.g., the division of the training and test sets, exactly how many sets of data there are in each, the distribution of data for different digits, etc.
+
+\subsection{Network Architecture}
+Please provide the detailed structure of your network here. If you have used any pre-existing network architectures, please include the source.
+
+\subsection{Loss Function}
+Please provide the mathematical formula of the loss function you used, along with an explanation of the meaning of each symbol.
+
+\subsection{Training Detail}
+Please provide the details of your model training, such as the number of epochs, learning rate, etc.
+
+\subsection{Quantity Result}
+Please use Structural Similarity (SSIM) to measure the performance of your model on the test set. You need to give the results on the entire dataset, as well as the results on each digit separately.
+
+\subsection{Quality Result}
+Please visualize your experimental results here. You need to display at least 8 different experimental results under varied digits, inputs, and targets. Each result should include the input, target, and the model’s output.
+
+\end{document}
