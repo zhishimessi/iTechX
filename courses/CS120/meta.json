@@ -4,6 +4,23 @@
     "semesters": [
         {
             "season": "Fall",
+            "year": "2024",
+            "course_id": "CS120.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "无",
+            "evaluation": "4 Homework (5% * 4 = 20%), Final Exam (35%), Course Project (45%, 4 subprojects * 10% + finish all the four projects 5%), Bonus Score (up to 25%, optional parts of Course Project), Attendence 5%",
+            "teacher": [
+                "yangzhc"
+            ],
+            "ta": [
+                "yanyh",
+                "lihao2023"
+            ]
+        },
+        {
+            "season": "Fall",
             "year": "2023",
             "course_id": "CS120.01",
             "department": "信息科学与技术学院",

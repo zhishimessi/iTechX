@@ -3,6 +3,27 @@
     "name": "Introduction to Programming",
     "semesters": [
         {
+            "season": "Fall",
+            "year": "2024",
+            "course_id": "CS100.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "无",
+            "evaluation": "Homework (72% = 8+8+10+10+12+12+12) + Midterm Exam (22%) + Quiz (4%) + Recitation attendance checks(2%)",
+            "teacher": [
+                "caoying1"
+            ],
+            "ta": [
+                "liuxiao",
+                "gaoye2022",
+                "zhaozj2022",
+                "lichf1",
+                "zhangbch2023",
+                "xiaojx"
+            ]
+        },
+        {
             "season": "Spring",
             "year": "2024",
             "course_id": "CS100.01",

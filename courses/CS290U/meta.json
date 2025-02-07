@@ -1,0 +1,24 @@
+{
+    "code": "CS290U",
+    "name": "Project Practice for Deep Learning",
+    "semesters": [
+        {
+            "course_id": "CS290U.01",
+            "season": "Fall",
+            "year": "2024",
+            "department": "信息科学与技术学院",
+            "credit": "3",
+            "hours": "48",
+            "prerequisite": "无",
+            "evaluation": "Class Participation (10%); Projects (15% x 6)",
+            "teacher": [
+                "shiyj2"
+            ],
+            "ta": [
+                "wushx2023",
+                "yangjw12023",
+                "yangjq"
+            ]
+        }
+    ]
+}

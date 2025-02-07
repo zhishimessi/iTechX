@@ -1,0 +1,23 @@
+- Chang 等 - CSOT Curriculum and Structure-Aware Optimal Trans.pdf
+- Chen 等 - 2024 - Fair Federated Learning under Domain Skew with Local Consistency and Domain Diversity.pdf
+- DC3 A learning method for optimization with hard constraints.pdf
+- DeepOPF A Feasibility-Optimized Deep Neural Network Approach for AC Optimal Power Flow Problems.pdf
+- Differentiable MPC for End-to-end Planning and Control.pdf
+- Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies.pdf
+- Li 等 - 2024 - Global and Local Prompts Cooperation via Optimal Transport for Federated Learning.pdf
+- Ortiz-Jimenez 等 - 2023 - Task Arithmetic in the Tangent Space Improved Editing of Pre-Trained Models.pdf
+- Reduced Policy Optimization for Continuous Control with Hard Constraints.pdf
+- TinyMPC_Model-Predictive Control on Resource-Constrained Microcontrollers.pdf
+- Wu 等 - 2023 - Solving a Class of Non-Convex Minimax Optimization in Federated Learning.pdf
+- Xie 等 - 2024 - PerAda Parameter-Efficient Federated Learning Personalization with Generalization Guarantees.pdf
+- Yang 等 - 2024 - FedFed Feature distillation against data heterogeneity in federated learning.pdf
+- Zhang 等 - 2023 - Eliminating Domain Bias for Federated Learning in Representation Space.pdf
+- Zhang 等 - 2023 - Federated Compositional Deep AUC Maximization.pdf
+- [arxiv 2404] Gradient Guidance for Diffusion Models An Optimization Perspective.pdf
+- [CVPR 2023] Denoising Diffusion Models for Plug-and-Play Image Restoration.pdf
+- [CVPR 2023] Universal Guidance for Diffusion Models.pdf
+- [ICCV 2023] End-to-End Diffusion Latent Optimization Improves Classifier Guidance.pdf
+- [ICCV 2023] FreeDoM Training-Free Energy-Guided Conditional Diffusion Model.pdf
+- [ICLR 2023 spotlight]Diffusion Posterior Sampling for General Noisy Inverse Problems.pdf
+- [ICML 2024] D-Flow Differentiating through Flows for Controlled Generation .pdf
+- [ICML 2024] Guidance with Spherical Gaussian Constraint for Conditional Diffusion.pdf
