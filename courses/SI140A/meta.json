@@ -4,6 +4,25 @@
     "semesters": [
         {
             "season": "Fall",
+            "year": "2024",
+            "course_id": "SI140A.02",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Mathematical Analysis and Linear Algebra",
+            "evaluation": "Homework 20%, Behavior 5%, Final Project 15%, Midterm Exam 30%, Final Exam 30%",
+            "teacher": [
+                "wendzh"
+            ],
+            "ta": [
+                "xiesj2023",
+                "huqsh2023",
+                "longwj2024",
+                "unknown"
+            ]
+        },
+        {
+            "season": "Fall",
             "year": "2023",
             "course_id": "SI140A.01",
             "department": "信息科学与技术学院",
