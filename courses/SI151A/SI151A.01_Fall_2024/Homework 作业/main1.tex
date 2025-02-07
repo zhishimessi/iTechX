@@ -1,0 +1,123 @@
+%!TEX program = xelatex
+\documentclass[10pt]{article}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{mathrsfs}
+\usepackage{titlesec}
+\usepackage{xcolor}
+%\usepackage[shortlabels]{enumitem}
+\usepackage{enumerate}
+\usepackage{bm}
+\usepackage{tikz}
+\usepackage{listings}
+\usetikzlibrary{arrows}
+\usepackage{subfigure}
+\usepackage{graphicx,booktabs,multirow}
+\usepackage[a4paper]{geometry}
+\usepackage{upquote}
+\usepackage{float}
+\usepackage{pdfpages}
+
+\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}
+\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}
+\lstset{language=Matlab}%代码语言使用的是matlab
+\lstset{breaklines}%自动将长的代码行换行排版
+
+\input defs.tex
+
+\newtheorem{proposition}{Proposition}
+\newtheorem{remark}{Remark}
+\titleformat*{\section}{\centering\LARGE\scshape}
+\renewcommand{\thesection}{\Roman{section}}
+\renewcommand{\argmin}{\operatornamewithlimits{arg\,min}}
+\lstset{language=Matlab,tabsize=4,frame=shadowbox,basicstyle=\footnotesize,
+keywordstyle=\color{blue!90}\bfseries,breaklines=true,commentstyle=\color[RGB]{50,50,50},stringstyle=\ttfamily,numbers=left,numberstyle=\tiny,
+  numberstyle={\color[RGB]{192,92,92}\tiny},backgroundcolor=\color[RGB]{245,245,244},inputpath=code}
+
+\begin{document}
+
+\date{
+Due on Nov. 4, 2024, before class}
+\title{SI151A \\ Convex Optimization and its Applications in Information Science, Fall 2024 \\
+Homework 1}
+\maketitle
+Read all the instructions below carefully before you start working on the assignment, and before you make a submission.
+\begin{itemize}
+    \item You are required to write down all the major steps towards making your conclusions; otherwise you may obtain limited points ($\leq 20\%$) of the problem.
+    \item Write your homework in English; otherwise you will get no points of this homework.
+    \item Do your homework by yourself. Any form of plagiarism will lead to $0$ point of this homework. If more than one plagiarisms during the semester are identified, we will prosecute all violations to the fullest extent of the university regulations, including but not limited to failing this course, academic probation, or expulsion from the university.
+    \item If you have any doubts regarding the grading, you need to contact the instructor or the TAs within two days since the grade is announced. 
+\end{itemize}
+\newpage
+
+%=========================================================
+\begin{itemize}
+
+	%============================1=============================
+	\item[\textcolor{blue}{1}.] Which of the following sets are convex?
+	
+	\begin{enumerate}
+	    \item A \textit{slab}, i.e., a set of the form $\{x \in \mathbb{R}^n \mid \alpha \leq a^T x \leq \beta\}$. \defpoints{4}
+	    \item A \textit{rectangle}, i.e., a set of the form $\{x \in \mathbb{R}^n \mid \alpha_i \leq x_i \leq \beta_i, i = 1, \dots, n\}$. A rectangle is sometimes called a \textit{hyperrectangle} when 			$n > 2$. \defpoints{4}
+	    \item A \textit{wedge}, i.e., $\{x \in \mathbb{R}^n \mid a_1^T x \leq b_1, a_2^T x \leq b_2\}$. \defpoints{4}
+	    \item The set of points closer to a given point than a given set, i.e.,
+	    \[
+	    \{x \mid \|x - x_0\|_2 \leq \|x - y\|_2 \ \text{for all} \ y \in S\}
+	    \]
+	    where $S \subseteq \mathbb{R}^n$. \defpoints{4}
+	    \item The set of points closer to one set than another, i.e.,
+	    \[
+	    \{x \mid \text{dist}(x, S) \leq \text{dist}(x, T)\},
+	    \]
+	    where $S, T \subseteq \mathbb{R}^n$, and
+	    \[
+	    \text{dist}(x, S) = \inf \{\|x - z\|_2 \mid z \in S\}.
+	    \] \defpoints{4}
+	\end{enumerate}
+	\vspace{1cm}
+
+	%============================2=============================
+	\item[\textcolor{blue}{2}.] Convex functions.
+
+	\textbf{ For each of the following functions determine whether it is convex, concave, quasiconvex, or quasiconcave.}	
+	\begin{enumerate}
+	    \item $f(x) = e^x - 1$ on $\mathbb{R}$. \defpoints{4}
+	    \item $f(x_1, x_2) = x_1 x_2$ on $\mathbb{R}^2_{++}$. \defpoints{4}
+	    \item $f(x_1, x_2) = \frac{1}{x_1 x_2}$ on $\mathbb{R}^2_{++}$. \defpoints{4}
+	\end{enumerate}
+	\textbf{Show that the following function $f : \mathbb{R}^n \to \mathbb{R}$ is convex.}	
+	\begin{enumerate}
+	    \item[4.] $f(x) = \|A x - b\|$, where $A \in \mathbb{R}^{n \times n}$, $b \in \mathbb{R}^n$, and $\|\cdot\|$ is a norm on $\mathbb{R}^n$. \defpoints{4}
+	    \item[5.] $f(x) = -\log \left( -\log \left( \sum_{i=1}^n e^{a_i^Tx + b_i} \right) \right)$ on $\textbf{dom }f = \{x|\sum_{i=1}^n e^{a_i^Tx + b_i} < 1\}$. \emph{(hint: You can use the fact that $\log \left( \sum_{i=1}^n e^{y_i} \right)$ is convex.)} \defpoints{4}
+	\end{enumerate}
+	
+	\vspace{1cm}
+	
+	%============================3=============================
+	\item[\textcolor{blue}{3}.] 
+        Let $S \subseteq \mathbb{R}^2$ be the set defined by $S = \{(x, y) \in \mathbb{R}_+^2 \mid y \leq \sqrt{x}\}$. Prove that $S$ is a convex set. \defpoints{20}
+	\vspace{1cm}
+	
+	%============================4=============================
+	\item[\textcolor{blue}{4}.]
+        Let $f(X) = ||X||_2$ be the spectral norm of a matrix $X \in \mathbb{R}^{m \times n}$, defined as the largest singular value of $X$.
+	  \begin{enumerate}
+	  \item Prove that $f(X)$ is convex. \defpoints{10}
+	
+	  \item Prove that the nuclear norm $f(X) = \sum_{i=1}^{r} \sigma_i(X)$, where $\sigma_i(X)$ are the singular values of $X$, is convex. \defpoints{10}
+	   \end{enumerate}
+	\vspace{1cm}
+
+	%============================5=============================
+	\item[\textcolor{blue}{5}.]
+       Consider the ridge regression problem:
+
+	$$\min_{x \in \mathbb{R}^d} \frac{1}{2n} ||Ax - b||^2 + \frac{\lambda}{2} ||x||^2$$
+	
+	where $A \in \mathbb{R}^{n \times d}$, $b \in \mathbb{R}^n$, $\|\cdot\|$ is the $L_2$ norm, and $\lambda > 0$. Show that the objective function is strongly convex \defpoints{5} and find the strong convexity constant in terms of $\lambda$ and the smallest eigenvalue of $A^T A$, i.e., assume that the strong convexity constant is $m$, express $m$ in terms of $\sigma$ and $\lambda$ where $\sigma$ is the smallest eigenvalue of $A^T A$.\defpoints{15} \emph{(hint: you can use the second-order differentiability of the strongly convex function.)} 
+	\vspace{1cm}
+	    
+\end{itemize}
+	
+\end{document}
+
