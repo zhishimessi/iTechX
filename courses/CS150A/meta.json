@@ -3,6 +3,23 @@
     "name": "Database",
     "semesters": [
         {
+            "season": "Fall",
+            "year": "2024",
+            "course_id": "CS150A.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Algorithms and Data Structures, Operating Systems I",
+            "evaluation": "Homework: 30%, Midterm exam: 25%, Final exam: 35%, Quiz: 10%",
+            "teacher": [
+                "wangwj1"
+            ],
+            "ta": [
+                "yangrk2022",
+                "chengmj"
+            ]
+        },
+        {
             "season": "Spring",
             "year": "2024",
             "course_id": "CS150A.01",
