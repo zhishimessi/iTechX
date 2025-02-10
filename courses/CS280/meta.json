@@ -3,6 +3,26 @@
     "name": "Deep Learning",
     "semesters": [
         {
+            "season": "Fall",
+            "year": "2023",
+            "course_id": "CS280.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Proficiency in Python, Calculus, Linear Algebra, Probability and Statistics, Equivalent knowledge of Andrew Ng's CS229 (Machine Learning)",
+            "evaluation": "Project (50%)(bonus + 5%), 3 Assignments (30%), 5 Quizzes (20%)",
+            "teacher": [
+                "xulan1"
+            ],
+            "ta": [
+                "lianghan",
+                "jiangsy",
+                "zhaochf",
+                "zhangwq2022",
+                "yangbo2022"
+            ]
+        },
+        {
             "course_id": "CS280.01",
             "season": "Fall",
             "year": "2022",
@@ -10,7 +30,12 @@
                 "xulan1"
             ],
             "ta": [
-                "lianghan", "jiangsy", "gaozht", "wangchy8", "dengkh", "zhaochf"
+                "lianghan",
+                "jiangsy",
+                "gaozht",
+                "wangchy8",
+                "dengkh",
+                "zhaochf"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",
@@ -26,7 +51,11 @@
                 "xulan1"
             ],
             "ta": [
-                "huchy3", "wangla", "wangyj2", "lianghan", "jiangyh2"
+                "huchy3",
+                "wangla",
+                "wangyj2",
+                "lianghan",
+                "jiangyh2"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",
@@ -39,10 +68,16 @@
             "season": "Fall",
             "year": "2020",
             "teacher": [
-                "hexm", "xulan1"
+                "hexm",
+                "xulan1"
             ],
             "ta": [
-                "yanzhh", "wangqy2", "wanghzh", "mengquan", "sungx", "jiangywq"
+                "yanzhh",
+                "wangqy2",
+                "wanghzh",
+                "mengquan",
+                "sungx",
+                "jiangywq"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",
@@ -58,7 +93,11 @@
                 "hexm"
             ],
             "ta": [
-                "lirj2", "lishl", "wanghzh", "zhangxy9", "unknown"
+                "lirj2",
+                "lishl",
+                "wanghzh",
+                "zhangxy9",
+                "unknown"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",
