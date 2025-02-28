@@ -10,11 +10,15 @@
             "credit": "4",
             "hours": "64",
             "prerequisite": "Proficiency in Python, Calculus, Linear Algebra, Probability and Statistics, Equivalent knowledge of Andrew Ng's CS229 (Machine Learning)",
-            "evaluation": "Problem sets, 15%×2=30% ( Write-up problem sets + Programming tasks) - Final course project: 50% - 5 Quizzes (in class): 4% x 5 = 20%",
+            "evaluation": "Project (50%)(bonus + 5%), 2 Assignments (30%), 5 Quizzes (20%)",
             "teacher": [
                 "xulan1"
             ],
             "ta": [
+                "yanghd",
+                "yangbo2022",
+                "zhangwq2022",
+                "unknown",
                 "unknown"
             ]
         },
