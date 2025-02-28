@@ -1033,6 +1033,12 @@
         ],
         "teach-courses": [
             [
+                "Fall",
+                "2024",
+                "CS280",
+                "Deep Learning"
+            ],
+            [
                 "Spring",
                 "2024",
                 "CS100",
