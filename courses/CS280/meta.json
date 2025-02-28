@@ -4,6 +4,22 @@
     "semesters": [
         {
             "season": "Fall",
+            "year": "2024",
+            "course_id": "CS280.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Proficiency in Python, Calculus, Linear Algebra, Probability and Statistics, Equivalent knowledge of Andrew Ng's CS229 (Machine Learning)",
+            "evaluation": "Problem sets, 15%×2=30% ( Write-up problem sets + Programming tasks) - Final course project: 50% - 5 Quizzes (in class): 4% x 5 = 20%",
+            "teacher": [
+                "xulan1"
+            ],
+            "ta": [
+                "unknown"
+            ]
+        },
+        {
+            "season": "Fall",
             "year": "2023",
             "course_id": "CS280.01",
             "department": "信息科学与技术学院",
