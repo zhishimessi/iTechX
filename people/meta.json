@@ -2031,6 +2031,12 @@
         ],
         "teach-courses": [
             [
+                "Spring",
+                "2025",
+                "SI252",
+                "Reinforcement Learning"
+            ],
+            [
                 "Fall",
                 "2023",
                 "SI140A",
@@ -8121,6 +8127,12 @@
             ]
         ],
         "ta-courses": [
+            [
+                "Spring",
+                "2025",
+                "SI252",
+                "Reinforcement Learning"
+            ],
             [
                 "Fall",
                 "2023",
