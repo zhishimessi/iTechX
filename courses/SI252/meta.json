@@ -4,6 +4,22 @@
     "semesters": [
         {
             "season": "Spring",
+            "year": "2025",
+            "course_id": "SI252.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "无",
+            "evaluation": "Homework: 40% (5 or 6 problem sets); Final Project: 50% (research-oriented, report + poster presentation); Course Participation: 10% (e.g. answering questions).",
+            "teacher": [
+                "shaozy"
+            ],
+            "ta": [
+                "zhangty2"
+            ]
+        },
+        {
+            "season": "Spring",
             "year": "2022",
             "course_id": "SI252.01",
             "department": "信息科学与技术学院",
