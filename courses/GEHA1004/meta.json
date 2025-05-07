@@ -1,4 +1,25 @@
 {
     "code": "GEHA1004",
-    "name": "Science, Technology and Civilization"
+    "name": "Science, Technology and Civilization",
+    "semesters": [
+        {
+            "season": "Spring",
+            "year": "2024",
+            "course_id": "GEHA1004.01",
+            "department": "人文科学研究院",
+            "credit": "2",
+            "hours": "32",
+            "prerequisite": "无",
+            "evaluation": "未知",
+            "teacher": [
+                "zouyw"
+            ],
+            "ta": [
+                "gaohui",
+                "fudy2023",
+                "zhouqx2022",
+                "lixk2022"
+            ]
+        }
+    ]
 }
