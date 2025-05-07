@@ -1,4 +1,22 @@
 {
     "code": "CS177",
-    "name": "Bioinformatics: Software Development and Applications"
+    "name": "Bioinformatics: Software Development and Applications",
+    "semesters": [
+        {
+            "season": "Spring",
+            "year": "2025",
+            "course_id": "CS177.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "未知",
+            "evaluation": "Class Participation 20%, Homework 3*10%, Course Project 50% (2-3 student group)",
+            "teacher": [
+                "zhengjie"
+            ],
+            "ta": [
+                "unknown"
+            ]
+        }
+    ]
 }
