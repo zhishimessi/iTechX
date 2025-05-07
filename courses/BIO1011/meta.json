@@ -17,6 +17,22 @@
             "ta": [
                 "unknown"
             ]
+        },
+        {
+            "season": "Fall",
+            "year": "2023",
+            "course_id": "BIO1011.01",
+            "department": "生命科学与技术学院",
+            "credit": "3",
+            "hours": "48",
+            "prerequisite": "无",
+            "evaluation": "未知",
+            "teacher": [
+                "unknown"
+            ],
+            "ta": [
+                "unknown"
+            ]
         }
     ]
 }
