@@ -3,6 +3,26 @@
     "name": "Computer Vision I",
     "semesters": [
         {
+            "season": "Fall",
+            "year": "2024",
+            "course_id": "CS172.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Linear algebra, Calculus, Programing",
+            "evaluation": "Assignment 20%, Quiz 10%, Final exam 40%, Project 30%",
+            "teacher": [
+                "wangjingya",
+                "gujy1"
+            ],
+            "ta": [
+                "wangwq1",
+                "dengzk2023",
+                "jiky",
+                "zhangchx12024"
+            ]
+        },
+        {
             "course_id": "CS172.01",
             "season": "Fall",
             "year": "2023",
@@ -10,7 +30,12 @@
                 "gaoshh"
             ],
             "ta": [
-                "wangry3", "wangchy8", "zhaoyq12022", "wangshuo2022", "liushy2023", "xujw2023"
+                "wangry3",
+                "wangchy8",
+                "zhaoyq12022",
+                "wangshuo2022",
+                "liushy2023",
+                "xujw2023"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",
@@ -26,7 +51,12 @@
                 "wangjingya"
             ],
             "ta": [
-                "changwx", "caizhy", "yuchl2022", "wuqy2022", "hary2022", "wangwq1"
+                "changwx",
+                "caizhy",
+                "yuchl2022",
+                "wuqy2022",
+                "hary2022",
+                "wangwq1"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",
@@ -42,7 +72,17 @@
                 "gaoshh"
             ],
             "ta": [
-                "zhongzm", "zhaozb", "huangbb", "yanxh", "yujp1", "wangry3", "wangchy8", "wuxh", "lijp", "qianych", "jinlei"
+                "zhongzm",
+                "zhaozb",
+                "huangbb",
+                "yanxh",
+                "yujp1",
+                "wangry3",
+                "wangchy8",
+                "wuxh",
+                "lijp",
+                "qianych",
+                "jinlei"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",
@@ -59,7 +99,16 @@
                 "gaoshh"
             ],
             "ta": [
-                "zhongzm", "zhaozb", "jinlei", "zhiyh", "huangbb", "qianych", "liuwen", "liandz", "xujl1", "chenxn1"
+                "zhongzm",
+                "zhaozb",
+                "jinlei",
+                "zhiyh",
+                "huangbb",
+                "qianych",
+                "liuwen",
+                "liandz",
+                "xujl1",
+                "chenxn1"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",
@@ -76,7 +125,16 @@
                 "gaoshh"
             ],
             "ta": [
-                "xieling", "tuzhi", "xujl1", "jinlei", "qianshh", "zhoukang", "lijing1", "hujh", "xiaoyt", "yuzh"
+                "xieling",
+                "tuzhi",
+                "xujl1",
+                "jinlei",
+                "qianshh",
+                "zhoukang",
+                "lijing1",
+                "hujh",
+                "xiaoyt",
+                "yuzh"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",

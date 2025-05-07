@@ -3,6 +3,23 @@
     "name": "Computer Graphics I",
     "semesters": [
         {
+            "season": "Fall",
+            "year": "2024",
+            "course_id": "CS171.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Programming (C/C++), Mathematics (Calculus, Linear Algebra, Probability), Data Structures and Algorithms",
+            "evaluation": "Programming assignments (50%), Paper presentation (5%), Written examination (25% = mid-term (15%) + 5 quizzes (10%)), Final project (20% = accomplishment (15%) + presentation (3%) + report (2%))",
+            "teacher": [
+                "liuxp"
+            ],
+            "ta": [
+                "wangjw3",
+                "zhuzhl"
+            ]
+        },
+        {
             "course_id": "CS171.01",
             "season": "Fall",
             "year": "2023",
@@ -10,7 +27,8 @@
                 "liuxp"
             ],
             "ta": [
-                "xuzk", "wangjw3"
+                "xuzk",
+                "wangjw3"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",
@@ -26,7 +44,9 @@
                 "liuxp"
             ],
             "ta": [
-                "wuyh3", "zhangsy3", "zhangzhr2"
+                "wuyh3",
+                "zhangsy3",
+                "zhangzhr2"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",
@@ -42,7 +62,8 @@
                 "liuxp"
             ],
             "ta": [
-                "xuht1", "liumy1"
+                "xuht1",
+                "liumy1"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",
@@ -58,7 +79,8 @@
                 "liuxp"
             ],
             "ta": [
-                "luoochq", "yhwang21"
+                "luoochq",
+                "yhwang21"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",

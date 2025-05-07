@@ -4,6 +4,22 @@
     "semesters": [
         {
             "season": "Fall",
+            "year": "2024",
+            "course_id": "CS121.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "未知",
+            "evaluation": "Problem sets 20%, Labs 25%, Reading project 10% (team of 2), Programming project 15% (team of 2), Midterm exam 10%, Final exam 20%",
+            "teacher": [
+                "fanrui"
+            ],
+            "ta": [
+                "huanglei"
+            ]
+        },
+        {
+            "season": "Fall",
             "year": "2023",
             "course_id": "CS121.01",
             "department": "信息科学与技术学院",

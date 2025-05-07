@@ -3,6 +3,22 @@
     "name": "Matrix Computations",
     "semesters": [
         {
+            "season": "Fall",
+            "year": "2024",
+            "course_id": "SI231B.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "无",
+            "evaluation": "Assignments: 30%, Midterm exam: 40%, Final project: 30%",
+            "teacher": [
+                "lujie"
+            ],
+            "ta": [
+                "unknown"
+            ]
+        },
+        {
             "season": "Spring",
             "year": "2023",
             "course_id": "SI231B.01",

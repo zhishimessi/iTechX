@@ -3,6 +3,42 @@
     "name": "Signals and Systems",
     "semesters": [
         {
+            "season": "Fall",
+            "year": "2024",
+            "course_id": "EE150.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "无",
+            "evaluation": "Homework: 15%, Mid-term: 30%, Final Exam: 50%, Attendance: 5%",
+            "teacher": [
+                "xulin1"
+            ],
+            "ta": [
+                "lijq12024",
+                "wangxb2024",
+                "huoxuan2024"
+            ]
+        },
+        {
+            "season": "Fall",
+            "year": "2024",
+            "course_id": "EE150.02",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "无",
+            "evaluation": "Homework: 15%, Mid-term: 30%, Final Exam: 50%, Attendance: 5%",
+            "teacher": [
+                "caixr"
+            ],
+            "ta": [
+                "zhousa",
+                "zhangchzh2022",
+                "wangrh2023"
+            ]
+        },
+        {
             "season": "Spring",
             "year": "2024",
             "course_id": "EE150.01",

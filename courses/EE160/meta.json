@@ -3,6 +3,24 @@
     "name": "Introduction to Control",
     "semesters": [
         {
+            "season": "Fall",
+            "year": "2024",
+            "course_id": "EE160.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Calculus, Linear Algebra, O.D.E.",
+            "evaluation": "40% homework/experiment + 10% project + 50% exam",
+            "teacher": [
+                "chenjh2"
+            ],
+            "ta": [
+                "songjb2022",
+                "huangshzh2022",
+                "zhujl12024"
+            ]
+        },
+        {
             "season": "Spring",
             "year": "2023",
             "course_id": "EE160.01",
