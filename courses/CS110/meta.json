@@ -4,6 +4,25 @@
     "semesters": [
         {
             "season": "Spring",
+            "year": "2025",
+            "course_id": "CS110.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "未知",
+            "evaluation": "Homework: 40% (4 programming HW * 6% + 3 paper HW * 5% + HW1 1%), Lab: 5%, Exams: 53% (Midterm 1: 14%, Midterm 2: 14%, Final: 25%), Participation: 2%; CS110P for projects: P1.1 17%, P1.2 17%, P2.1 16%, P2.2 16%, P3 17%, P4 17%, Participation 2%",
+            "teacher": [
+                "wangchd",
+                "liust",
+                "xiaoyuan"
+            ],
+            "ta": [
+                "unknown"
+            ],
+            "mainpage": "https://toast-lab.sist.shanghaitech.edu.cn/courses/CS110@ShanghaiTech/Spring-2025/index.html"
+        },
+        {
+            "season": "Spring",
             "year": "2024",
             "course_id": "CS110.01",
             "department": "信息科学与技术学院",
