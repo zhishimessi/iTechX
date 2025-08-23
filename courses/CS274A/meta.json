@@ -3,6 +3,22 @@
     "name": "Natural Language Processing",
     "semesters": [
         {
+            "season": "Spring",
+            "year": "2025",
+            "course_id": "CS274A.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "CS: Programming, Data Structures and Algorithms; Math: Calculus, Probability and Statistics, Linear Algebra; Artificial Intelligence I (recommended)",
+            "evaluation": "5 Homework (25%), Final (45%), Project (30%)",
+            "teacher": [
+                "tukw"
+            ],
+            "ta": [
+                "wuhy1"
+            ]
+        },
+        {
             "course_id": "CS274A.01",
             "season": "Spring",
             "year": "2024",
@@ -10,7 +26,9 @@
                 "tukw"
             ],
             "ta": [
-                "wuhy1", "jipy", "huiwy"
+                "wuhy1",
+                "jipy",
+                "huiwy"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",
@@ -26,7 +44,9 @@
                 "tukw"
             ],
             "ta": [
-                "wuhy1", "liuwei4", "huiwy"
+                "wuhy1",
+                "liuwei4",
+                "huiwy"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",
@@ -42,7 +62,10 @@
                 "tukw"
             ],
             "ta": [
-                "wuhy1", "jiangchy", "yangsl", "louchao"
+                "wuhy1",
+                "jiangchy",
+                "yangsl",
+                "louchao"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",

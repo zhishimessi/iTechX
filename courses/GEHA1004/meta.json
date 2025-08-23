@@ -1,0 +1,25 @@
+{
+    "code": "GEHA1004",
+    "name": "Science, Technology and Civilization",
+    "semesters": [
+        {
+            "season": "Spring",
+            "year": "2024",
+            "course_id": "GEHA1004.01",
+            "department": "人文科学研究院",
+            "credit": "2",
+            "hours": "32",
+            "prerequisite": "无",
+            "evaluation": "课堂点名 10%, 课堂发言 10%, 小测 3*10%, 学期论文 50%",
+            "teacher": [
+                "zouyw"
+            ],
+            "ta": [
+                "gaohui",
+                "fudy2023",
+                "zhouqx2022",
+                "lixk2022"
+            ]
+        }
+    ]
+}

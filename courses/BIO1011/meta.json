@@ -1,0 +1,38 @@
+{
+    "code": "BIO1011",
+    "name": "Introduction to Modern Biological Science",
+    "semesters": [
+        {
+            "season": "Spring",
+            "year": "2024",
+            "course_id": "BIO1011.03",
+            "department": "信息科学与技术学院",
+            "credit": "3",
+            "hours": "48",
+            "prerequisite": "无",
+            "evaluation": "出勤 30%, 平时表现 30% (课后作业、讨论演讲、课堂互动、随堂测试等), 期末考试 40%",
+            "teacher": [
+                "lijun1"
+            ],
+            "ta": [
+                "unknown"
+            ]
+        },
+        {
+            "season": "Fall",
+            "year": "2023",
+            "course_id": "BIO1011.01",
+            "department": "生命科学与技术学院",
+            "credit": "3",
+            "hours": "48",
+            "prerequisite": "无",
+            "evaluation": "未知",
+            "teacher": [
+                "unknown"
+            ],
+            "ta": [
+                "unknown"
+            ]
+        }
+    ]
+}

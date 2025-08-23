@@ -1,0 +1,23 @@
+{
+    "code": "SI114H",
+    "name": "Computational Science Engineering",
+    "semesters": [
+        {
+            "season": "Spring",
+            "year": "2025",
+            "course_id": "SI114H.01",
+            "department": "信息科学与技术学院",
+            "credit": "3",
+            "hours": "48",
+            "prerequisite": "无",
+            "evaluation": "Homework 3*15%, Quiz 3*5%, Project 40%",
+            "teacher": [
+                "liaoqf"
+            ],
+            "ta": [
+                "unknown"
+            ],
+            "mainpage": "https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/"
+        }
+    ]
+}
